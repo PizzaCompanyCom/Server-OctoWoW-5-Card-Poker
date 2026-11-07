@@ -339,3 +339,33 @@ OctoWoW Raid Poker now includes a broad set of gameplay, visual, and administrat
 The main remaining priority is multiplayer reliability, particularly confirming that all non-host clients consistently receive winner notifications, stop their timers after showdown, and recover correctly after disconnections.
 
 OctoWoW Raid Poker brings a complete fantasy-themed poker table into World of Warcraft, combining traditional Five Card Draw gameplay with raid-based multiplayer controls and Warcraft-inspired visuals.
+
+**Main Commands**
+Command	Description
+/orp	Open or close the main poker window.
+/octopoker	Alternative command to open or close the poker window.
+/poker	Open or close the main poker window.
+/orp stats	Open the Player Statistics window.
+/orp balances	Open the Player Balances window.
+/poker settings	Open Poker Settings.
+/poker reseticon	Reset the addon icon to its default minimap position.
+/orp sync	Request game-state synchronization from the Raid Leader.
+
+**Raid Leader Commands**
+Command	Description
+/orp balance PlayerName Amount	Set a player's virtual Silver balance to the specified amount.
+/poker resetall	Open the confirmation dialog to reset all poker data.
+
+**Example:**
+
+/orp balance Jarat 10000
+
+Sets Jarat's virtual poker balance to 10,000 Silver.
+
+Balance changes can only be performed by the Raid Leader while a hand is not active. The command sets the total balance; it does not add to the existing balance.
+Diagnostics and Troubleshooting
+Command	Description
+/orp debug	Open the debugging window and display information about the player, Raid Leader, raid size, game phase, cards, and session.
+/orp nettest	Run addon communication tests and open the debugging window to inspect the results.
+
+These commands are useful when troubleshooting synchronization issues, missing cards, or multiplayer communication problems.
