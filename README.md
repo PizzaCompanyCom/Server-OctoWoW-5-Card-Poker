@@ -64,29 +64,31 @@ The deck includes:
 - Custom boss illustrations, including characters such as Ragnaros, C'Thun, Kel'Thuzad, and other Warcraft bosses.
 All cards follow standard poker rules. The artwork does not affect the value of the cards.
 3. **How to Play Five Card Draw**
-1. Join the Table
+
+1. **Click - > Join the Table**
    
    The Raid Leader hosts the game, and participants click Join Table.
-2. Start Hand
+2. **Click -> Start Hand**
    
    The Raid Leader starts a new hand. Each participant contributes the configured ante and receives five cards.
-3. First Betting Round — BET1
+3. **First Betting Round — BET1**
    
    Players take turns checking, calling, raising, folding, or going All-In.
-4. Card Exchange — DRAW
+4. **Card Exchange — DRAW**
    
    Players can select unwanted cards and exchange them, or keep their original hand using Stand Pat.
-5. Second Betting Round — BET2
+5. **Second Betting Round — BET2**
    
    Players place their final bets after the card exchange.
-6. Showdown
+6. **Showdown**
    
    Remaining hands are compared. The strongest eligible hand wins the pot.
-7. Winner Announcement
+7. **Winner Announcement**
    
    The winner is displayed, the virtual bank is distributed, and the table becomes ready for another hand.
 
 If all other players fold, the last remaining player wins without needing to reveal or compare a winning combination.
+
 4. Main Poker Window — All Buttons
 Table and card controls
 Button	Function
@@ -98,22 +100,9 @@ Stand Pat	Keep all five cards without exchanging.
 Fold	Surrender the current hand.
 
 During card exchange, click the cards you want to replace, then press Exchange. If you want to keep all five, press Stand Pat.
-Betting controls
-Check
+Betting controls:
 
-
-Call
-
-
-Raise
-
-
-Fold Bet
-
-
-All-In
-
-
+**Check, Call, Raise, Fold Bet, All-In**
 
 Illustrative button layout
 Button	Function
@@ -124,15 +113,16 @@ Fold Bet	Fold during the betting round.
 All-In	Commit the player's entire available virtual balance.
 
 The addon tracks contributions to the pot and includes support for All-In and side-pot distribution.
+
 5. Betting Presets 2.0
 The main window includes a Raise input field and six quick-bet buttons.
-Button	Description
-+10s	Add 10 Silver to the proposed raise amount.
-+50s	Add 50 Silver.
-+100s	Add 100 Silver.
-1/4 Pot	Calculate a raise based on one-quarter of the current pot.
-1/2 Pot	Calculate a raise based on half of the current pot.
-Pot	Calculate a raise based on the current pot.
+Button	Description:
+**+10s	Add 10 Silver to the proposed raise amount.**
+**+50s	Add 50 Silver.**
+**+100s	Add 100 Silver.**
+**1/4 Pot	Calculate a raise based on one-quarter of the current pot.**
+**1/2 Pot	Calculate a raise based on half of the current pot.**
+**Pot	Calculate a raise based on the current pot.**
 
 These buttons prepare a betting amount; they do not immediately place the bet. The player must press Raise to submit it.
 
@@ -141,44 +131,22 @@ Pot and All-In are different. A pot-sized bet is based on the current bank, whil
 The Raise input can retain the most recently entered value.
 6. Betting Information Display
 The main window displays four important values.
-BANK
-250s
 
-CURRENT BET
-50s
-
-YOUR BALANCE
-850s
-
-TO CALL
-50s
+**BANK: 250s CURRENT BET: 50s YOUR BALANCE: 850s TO CALL: 50s**
 
 
 Example values, not live game data
 Bank is the current total pot. Current Bet shows the betting level. Your Balance is the player's available virtual Silver. To Call is the amount required to match the current bet.
 7. Visual Turn Timer
 The addon uses one countdown bar integrated into the main poker window.
-YOUR TURN — PLACE YOUR BET
-
-24s
-
-
-
-
-
-JARAT'S TURN — WAITING
-
-12s
-
-
-
-
+YOUR TURN — PLACE YOUR BET 24s
+JARAT'S TURN — WAITING 12s
 
 When it is your turn, the bar is green, turning yellow and then red as time runs out. When another player is acting, the bar is grey.
 
 The timer is intended to stop when the betting round or hand ends.
 Timer settings
-Button	Function
+Button	Function:
 15s	Set the turn limit to 15 seconds.
 30s	Set the turn limit to 30 seconds.
 60s	Set the turn limit to 60 seconds.
@@ -202,6 +170,7 @@ Jarat — Full House
 BANK: 250s
 Example popup content
 Multiplayer note: Winner notifications on non-Raid-Leader clients have experienced synchronization problems in previous versions. Version 1.4.13 includes result retransmission and manual resend controls, but successful delivery on every client has not yet been fully confirmed.
+
 9. Betting Activity
 The BETTING ACTIVITY panel provides a running record of game actions.
 
@@ -217,7 +186,7 @@ RESULT: Winner: Jarat
 
 
 This allows players to follow the betting sequence without opening another window.
-10. Player Balances
+**10. Player Balances**
 The Player Balances window is used for virtual bankroll management.
 
 It displays player names, tracked balances, table participation, connection status, and administrative controls.
@@ -267,6 +236,7 @@ An example announcement:
 
 
 These are virtual accounting reports, not actual Silver transfers.
+
 12. Top Toolbar Buttons
 The compact top toolbar provides access to the main reference and configuration functions.
 Icon / Button	Function
@@ -327,21 +297,10 @@ Connection indicators can include CONNECTED, SYNCING, and NO RAID. The host is a
 Because the addon relies on multiplayer communication, all participants should use the same addon version.
 
 Connection Recovery improves resilience but does not guarantee recovery from every disconnect or lost message.
-17. Sound and Emote Buttons
+
+**17. Sound and Emote Buttons**
 The main interface includes five entertainment buttons.
-Laugh
-
-
-Cry
-
-
-Chicken
-
-
-Train
-
-
-Roar
+Laugh, Cry, Chicken, Train, Roar
 
 
 
@@ -357,6 +316,7 @@ It is available in the main interface and also through Player Balances.
 Because this is a potentially destructive operation, it should be used carefully and only by the Raid Leader.
 
 It is recommended to finish any active hand and review player balances before performing a reset.
+
 19. **Recommended Multiplayer Setup**
 For normal play:
 1. Install the same version of OctoWoW Raid Poker on all participating accounts.
