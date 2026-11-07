@@ -1,0 +1,15 @@
+OctoWoW Raid Poker v1.3.43 — Classic Betting Controls
+
+Changes since v1.3.42:
+- Ready Check completely removed: Raid Leader starts a hand immediately.
+- Removed Ready button and Ready Check network messages.
+- Check, Call, Raise, Fold Bet and All-In now use WoW-style metallic borders,
+  colored accents, hover highlights and pressed states.
+- Preserved All-In, Side Pots, Player Statistics, Dealer Rotation,
+  virtual gold accounting and all 52 Classic Poker boss cards.
+- Interface remains in English; intended for OctoWoW 1.17.1.
+
+Install: Extract OctoWoW_Raid_Poker into Interface/AddOns,
+replacing the previous addon files. Back up SavedVariables first.
+Validation: ZIP integrity, card count and image dimensions checked.
+In-game runtime behavior has not been tested in the OctoWoW client.

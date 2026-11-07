@@ -1,0 +1,9 @@
+## Interface: 11701
+## Title: OctoWoW Raid Poker
+## Notes: Raid Leader hosted five-card draw poker
+## Version: 1.4.13
+## SavedVariables: OctoPokerDB
+Core.lua
+PlayerManagement.lua
+GameplayEnhancements.lua
+RaidLeaderControls.lua

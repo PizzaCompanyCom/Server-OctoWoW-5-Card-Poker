@@ -1,0 +1,55 @@
+OctoWoW Raid Poker v1.3.38 — 52 unique boss cards
+New high cards (10–A) use approved Classic Poker art.
+
+2S - Rhahk'Zor
+3S - Hogger
+4S - Agathelos the Raging
+5S - Rattlegore
+6S - Archmage Arugal
+7S - Cannon Master Willey
+8S - Mekgineer Thermaplugg
+9S - Emperor Dagran Thaurissan
+10S - Onyxia
+JS - Thaddius
+QS - Jin'do the Hexxer
+KS - Hakkar
+AS - Kel'Thuzad
+2H - Lady Anacondra
+3H - Mutanus the Devourer
+4H - Lord Serpentis
+5H - Verdan the Everliving
+6H - Atal'alarion
+7H - Dreamscythe
+8H - Morphaz
+9H - Shade of Eranikus
+10H - Vaelastrasz
+JH - Patchwerk
+QH - Sulfuron Harbinger
+KH - Mandokir the Bloodlord
+AH - C'Thun
+2C - Bazil Thredd
+3C - Ghamoo-ra
+4C - Lady Sarevess
+5C - Charlga Razorflank
+6C - Lord Melenas
+7C - Gizrul the Slavener
+8C - Overmaster Pyron
+9C - Gahz'rilla
+10C - General Drakkisath
+JC - Chromaggus
+QC - Magmadar
+KC - Ouro
+AC - Nefarian
+2D - Warlord Kolkanis
+3D - Archaedas
+4D - Zevrim Thornhoof
+5D - Lethorandis
+6D - Magister Kalendris
+7D - Illyanna Ravenoak
+8D - Tendris Warpwood
+9D - Prince Tortheldrin
+10D - Lord Kazzak
+JD - Shazzrah
+QD - Baron Geddon
+KD - Ossirian the Unscarred
+AD - Ragnaros

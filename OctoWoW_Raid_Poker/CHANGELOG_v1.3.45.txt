@@ -1,0 +1,7 @@
+v1.3.45 - Public Betting Activity and Coin Sounds
+- Shared betting activity feed (last 3 actions) with current pot.
+- Highlighted action banner for Check, Call, Raise, Fold, All-In, Ante.
+- Original coin jingles for positive bets and ante, obeying existing sound volume.
+- All betting actions broadcast by raid leader to all raid clients.
+- All 52 boss cards, Ante, dealer rotation, stats and Side Pots retained.
+- Not yet tested in the actual OctoWoW client.

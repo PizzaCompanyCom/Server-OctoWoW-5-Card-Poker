@@ -1,0 +1,8 @@
+OctoWoW Raid Poker v1.3.44
+New: configurable Ante in Poker Settings (0-999999 virtual gold).
+Default: 10g. Raid Leader changes value by typing and pressing Enter.
+Each eligible player including Dealer pays Ante before dealing.
+Players unable to afford Ante are excluded from the hand.
+Ante contributes to pot/side pots, not to first-round street bet.
+Ready Check remains removed. All 52 Classic Poker cards retained.
+Not yet verified in the live OctoWoW client.
