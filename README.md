@@ -1,3 +1,7 @@
+**Install:**
+1) Downloand and Unpack the archive
+2) Move the folder (OctoWoW_Raid_Poker) with the addon /interface/addons
+
 **OctoWoW Raid Poker**
 Complete Addon Description & User Guide — Version 1.4.13
 1. Overview
