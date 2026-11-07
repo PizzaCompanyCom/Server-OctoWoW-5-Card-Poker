@@ -23,7 +23,7 @@ Important: The addon does not automatically transfer actual in-game gold or silv
 <img style="width: 50%; height: auto;" alt="Image" src="https://github.com/user-attachments/assets/80c97d6e-c926-48bf-9478-4e2f4cffc2a4" />
 2. Custom Raid Boss Playing Cards
 
-
+<img style="width: 50%; height: auto;" alt="Image" src="https://github.com/user-attachments/assets/a99f5e55-4908-4efb-bb40-c7144872efd0" />
 
 
 
