@@ -1,4 +1,4 @@
-OctoWoW Raid Poker
+**OctoWoW Raid Poker**
 Complete Addon Description & User Guide — Version 1.4.13
 1. Overview
 OctoWoW Raid Poker is a multiplayer poker addon for World of Warcraft, designed for raid-group entertainment on the OctoWoW server.
@@ -10,11 +10,11 @@ Players can join a shared poker table, receive five cards, place bets, exchange 
 The Raid Leader acts as the game host and controls the poker table, player balances, betting settings, and game administration.
 Game Type: Five Card Draw Poker
 
-Players: 2–10 participants
+**Players: 2–10 participants**
 
 Currency: Virtual Silver (s)
 
-Host: Raid Leader
+**Host: Raid Leader**
 
 Interface: World of Warcraft Classic style
 
@@ -62,7 +62,7 @@ The deck includes:
 - 4 suits: Spades, Hearts, Diamonds, and Clubs.
 - Custom boss illustrations, including characters such as Ragnaros, C'Thun, Kel'Thuzad, and other Warcraft bosses.
 All cards follow standard poker rules. The artwork does not affect the value of the cards.
-3. How to Play Five Card Draw
+3. **How to Play Five Card Draw**
 1. Join the Table
    
    The Raid Leader hosts the game, and participants click Join Table.
@@ -277,7 +277,7 @@ Poker Settings	Open addon configuration.
 Raid Leader Controls	Open administrative hand and announcement controls; Raid Leader only.
 
 The toolbar uses WoW-style icons to reduce the number of large buttons in the main window.
-13. Poker Settings
+13. **Poker Settings**
 The settings interface provides configuration options for the poker experience, including supported appearance and sound settings.
 
 Features developed for the addon include:
@@ -348,7 +348,7 @@ Roar
 These buttons provide quick access to character emotes and entertainment actions during the poker game.
 
 They do not change bets, cards, or player balances.
-18. Reset All Poker Data
+18. **Reset All Poker Data**
 The Reset All Poker Data button provides an administrative reset function.
 
 It is available in the main interface and also through Player Balances.
@@ -356,7 +356,7 @@ It is available in the main interface and also through Player Balances.
 Because this is a potentially destructive operation, it should be used carefully and only by the Raid Leader.
 
 It is recommended to finish any active hand and review player balances before performing a reset.
-19. Recommended Multiplayer Setup
+19. **Recommended Multiplayer Setup**
 For normal play:
 1. Install the same version of OctoWoW Raid Poker on all participating accounts.
 2. Form a raid group and assign the intended Raid Leader.
