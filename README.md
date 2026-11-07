@@ -20,7 +20,7 @@ Interface: World of Warcraft Classic style
 
 
 Important: The addon does not automatically transfer actual in-game gold or silver between players. All poker balances and bets are tracked virtually. Any real payment arrangements must be handled separately by the players.
-https://github.com/PizzaCompanyCom/Server-OctoWoW-5-Card-Poker/issues/1#issue-6261907727
+<img width="815" height="1136" alt="Image" src="https://github.com/user-attachments/assets/80c97d6e-c926-48bf-9478-4e2f4cffc2a4" />
 2. Custom Raid Boss Playing Cards
 
 
